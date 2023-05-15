@@ -1,3 +1,15 @@
 [
-	
+	[
+{
+         "name": "The CCP", 
+         "leader name": "Li Zhi Min",
+         "adjective": "Human", 
+         "startbias": "Forest", 
+         "Preferredvictorytype": "Domination", 
+         "favoredreligion": "State Atheism", 
+  
+         /*"startintropart1": ""'When the cataclysm happened, China had failed to predict it's arrival, causing a major lose of people and territory as the important party members hid in the Bunker in Beijing. Now that the cataclysm was over, the party members began taking control of the Capital once again, and though the people viewed us with suspicion after abandoning them to suffer in the wastelands above, the quick political manoeuvring by Li Zhi Min, trust was beginning to be restored as he began leading a reconstruction effort of Beijing. Not only that, he also saw fit to clear out bandit outposts and pushing the Barbarians out of Beijing, with his most crowning victory being the Reclamation and restoration of the Forbidden City, which now acts as the ruling place of the CCP.'", 
+         /*"startintropart2": "'And now, with the seat of Communism in China restored, it is now time to take back what is rightfully ours, no Barbarian may attempt to besiege Beijing, no Bandit will terrorise the people, and the Kuomintang will be pushed out of China, and Taiwan will finally fall under CCP rulership. For I, Li Zhi Min solemnly swear, as long as I still live, China will be reunited under the will of the people and the might of communism!'"
+        "DeclaringWar": "Sadly, you were just in the way of the reunification of China. And for that, you must die.", 
+	"attacked": "To arms men! We will push these invaders out of our land!", 
 ]
