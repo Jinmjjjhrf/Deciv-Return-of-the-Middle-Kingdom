@@ -12,6 +12,7 @@
     "uniques": [
                 "Personnel", 
                 "Never appears as a Barbarian unit", 
+                "Limited to 8 units per nation", 
                 "Only available <in cities with a [Armaments production line]>", 
                 "[+10%] strength <vs units> <in foreign territory>
                ], 
