@@ -23,4 +23,26 @@
         "innercolor": [207 179 0],
         "style": "", 
         "uniquename": "Unity under the Iron Fist", 
-]
+        "unique": [
+                  "[-20]% production towards units", 
+		  "+1 unit supply per 3 population", 
+		  "[15%] growth", 
+		  "-1 science", 
+		  "-1 culture", 
+        ]
+        "Cities": [
+                  "Beijing", 
+		  "Langfang", 
+		  "Baoding", 
+		  "Tangshan", 
+		  "Zhangjiakou", 
+		  "Chinghuangdao", 
+		  "Chengde", 
+		  "Tianjin", 
+		  "Shijiazhuang", 
+		  "Cangzhou", 
+		  "Hengxui", 
+		  "Xingtai", 
+		  "Handan", 
+         ]
+], 
