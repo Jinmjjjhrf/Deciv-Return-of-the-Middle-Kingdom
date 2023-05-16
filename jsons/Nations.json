@@ -13,8 +13,14 @@
         "DeclaringWar": "Sadly, you were just in the way of the reunification of China. And for that, you must die.", 
 	"attacked": "To arms men! We will push these invaders out of our land!", 
 	"defeated": "The capital! My nation! My plans of reunification... Was it all for nothing?", 
+        "afterPeace": "An offer of a temporary truce, I have other things to tend to.", 
 	"introductions": "Greetings, are friend or for? We shall see, so long as you do not interfere with our plan to reunify China, we may come to an agreement.",
 	"neutralHello": "What brings you here to the Forbidden Palace?", 
 	"hatedHello": "You rat! I will split your skull in two if you stay any longer Speak quickly.", 
-        "traderequest":   "The CCP has seen fit to offer you these goods, with a price of course....", 
+        "traderequest":   "The CCP has seen fit to offer you these goods, with a price of course....",
+	
+        "Outercolor": [226 0 41], 
+        "innercolor": [207 179 0],
+        "style": "", 
+        "uniquename": "Unity under the Iron Fist", 
 ]
