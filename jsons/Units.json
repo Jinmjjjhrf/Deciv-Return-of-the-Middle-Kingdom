@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Communist Vanguard", 
+    "replaces": "NCP infantry", 
+    "uniqueTo": "The CCP", 
+    "interceptRange": "1", 
+    "movement": "2",
+    "strength": "52",
+    "cost": "300",
+    "requiredTech": "Plastics", 
+    "upgradesTo": "", 
+    "uniques": [
+                "Personnel", 
+                "Never appears as a Barbarian unit", 
+                "Only available <in cities with a [Armaments production line]>", 
+                "[+10%] strength <vs units> <in foreign territory>
+               ], 
+   "promotions": ["Gas masks"] 
+                 ["Protector of the people"], 
+   "attackSound": "", 
