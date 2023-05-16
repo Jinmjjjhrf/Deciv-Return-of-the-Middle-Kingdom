@@ -24,11 +24,11 @@
         "style": "", 
         "uniquename": "Unity under the Iron Fist", 
         "unique": [
-                  "[-20]% production towards units", 
+                  "[+20]% production when constructing [Military] units [in all cities]", 
 		  "+1 unit supply per 3 population", 
 		  "[15%] growth", 
-		  "-1 science", 
-		  "-1 culture", 
+		  "-1 science [in all cities] before discovering <education>", 
+		  "-1 culture [in all cities] before discovering <education>", 
         ]
         "Cities": [
                   "Beijing", 
