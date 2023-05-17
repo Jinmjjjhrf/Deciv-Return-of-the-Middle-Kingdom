@@ -3,6 +3,7 @@
     "name": "Communist Vanguard", 
     "replaces": "NCP infantry", 
     "uniqueTo": "The CCP", 
+    "UnitType": "scrapper", 
     "interceptRange": "1", 
     "movement": "2",
     "strength": "52",
@@ -19,3 +20,12 @@
    "promotions": ["Gas masks"] 
                  ["Protector of the people"], 
    "attackSound": "", 
+}, 
+{
+  "name": "Recovered Dongfei Missiles", 
+  "replaces": "Nuclear Missile", 
+  "unique to": "The CCP", 
+  "UnitType": "Missile", 
+  "range": "20",
+  "cost": "800",
+] 
