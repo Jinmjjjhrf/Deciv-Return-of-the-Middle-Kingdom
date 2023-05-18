@@ -20,4 +20,25 @@
                }, 
     ] 
    }, 
+   {
+    "name": "Heavy Industry Factory", 
+    "replaces": "Factory", 
+    "uniqueTo": "The Central State", 
+    "cost": "250",
+    "production": "4",
+    "maintenance": "3", 
+    "uniques": [
+              "[+30%] Production [in this city]", 
+              "+3 [engineer] slots", 
+              "[10%] production towards [buildings] when [in peace]", 
+              "[+10%] production towards [armoured units] when [at war]", 
+              "[-20%] food", 
+              "consumes <2 energy>", 
+              "only available in cities with a <Library>", 
+              "[+1] Production [in this city] with [machine parts]", 
+              "[+1] Production from [machine parts] tiles [in this city]", 
+              "[+3] Production [in this city] with [power] 
+                ], 
+     "requiredTech": "Manufacturing", 
+    }, 
  ] 
