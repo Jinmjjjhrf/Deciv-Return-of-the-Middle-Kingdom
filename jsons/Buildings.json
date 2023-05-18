@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Forbidden Palace", 
+    "isWonder": "true", 
+    "uniqueTo": "The Central State", 
+    "happiness": "2",
+    "cost": "1",
+    "uniques": [
+             "-15% Unhappiness from Population <in all cities>", 
+             "+2 water", 
+             "provides <2 Weapons>
+             "free [The Communist Vanguard] appears",
+             "+1 Great Administrator Points", 
+    ], 
+    "quote": "After the Great Catastrophy, we have found the Forbidden City once the seat of government in the Ming and Qing Dynasty, now occupied by cannibals and bandits. But after years of restoration and refurbishing, it is finally repaired completely, and now open to the people and the seat of Communism in the east.", 
+
+    "civiliopediaText": [
+               {
+                   "text": "After the Great Catastrophy, we have found the Forbidden City once the seat of government in the Ming and Qing Dynasty, now occupied by cannibals and bandits. But after years of restoration and refurbishing, it is finally repaired completely, and now open to the people and the seat of Communism in the east.", 
+               }, 
+    ] 
+   }, 
+ ] 
