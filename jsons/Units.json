@@ -12,6 +12,7 @@
     "upgradesTo": "", 
     "uniques": [
                 "Personnel", 
+                "Consumes <2 weapons>
                 "Never appears as a Barbarian unit", 
                 "Limited to 8 units per nation", 
                 "Only available <in cities with a [Armaments production line]>", 
@@ -27,5 +28,16 @@
   "unique to": "The Central State", 
   "UnitType": "Missile", 
   "range": "20",
+  "strenght": "300", 
+  "rangeStrength": "300",
   "cost": "800",
+  "requiredTech": "rocketry", 
+  "upgradesTo": "", 
+  "unique": [
+             "Only available if <Manhattan Project> is constructed", 
+             "Consumes 2 <2 Uranium>", 
+            ], 
+  "blastRadius": "2",
+  "nuclearWeaponOfStrength": "2",
+}, 
 ] 
