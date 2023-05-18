@@ -37,7 +37,7 @@
               "only available in cities with a <Library>", 
               "[+1] Production [in this city] with [machine parts]", 
               "[+1] Production from [machine parts] tiles [in this city]", 
-              "[+3] Production [in this city] with [power] 
+              "[+3] Production [in this city] with [power]", 
                 ], 
      "requiredTech": "Manufacturing", 
     }, 
