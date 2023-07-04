@@ -1,7 +1,7 @@
 [
   {
     "name": "Communist Vanguard", 
-    "replaces": "NCP infantry", 
+    "replaces": "NBC infantry", 
     "uniqueTo": "The Central State", 
     "UnitType": "scrapper", 
     "interceptRange": "1", 
@@ -9,18 +9,18 @@
     "strength": "52",
     "cost": "300",
     "requiredTech": "Plastics", 
-    "upgradesTo": "", 
+    //"upgradesTo": "", 
     "uniques": [
                 "Personnel", 
-                "Consumes <2 weapons>
-                "Never appears as a Barbarian unit", 
+                "Consumes <2 weapons>",
+                "Never appears as a Barbarian unit",
                 "Limited to 8 units per nation", 
                 "Only available <in cities with a [Armaments production line]>", 
-                "[+10%] strength <vs units> <in foreign territory>
+                "[+10%] strength <vs units> <in foreign territory>"
                ], 
-   "promotions": ["Gas masks"] 
-                 ["Protector of the people"], 
-   "attackSound": "", 
+   "promotions": ["Gas masks", 
+                 "Protector of the people"], 
+   "attackSound": "shot", 
 }, 
 {
   "name": "Recovered Dongfei Missiles", 
@@ -32,7 +32,7 @@
   "rangeStrength": "300",
   "cost": "800",
   "requiredTech": "rocketry", 
-  "upgradesTo": "", 
+  //"upgradesTo": "", 
   "unique": [
              "Only available if <Manhattan Project> is constructed", 
              "Consumes 2 <2 Uranium>", 
