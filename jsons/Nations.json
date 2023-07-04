@@ -1,5 +1,4 @@
 [
-	[
 {
          "name": "The Central State", 
          "leaderName": "Li Zhi Min",
@@ -79,5 +78,7 @@
                 "[-20%] production in all cities", 
                 "[-20%] food in all cities", 
                 "[+1] unhappiness from all cities", 
-                "all units start with <amphibious> promotion", 
+                "all units start with <amphibious> promotion"
+     ]
+}
 ]
