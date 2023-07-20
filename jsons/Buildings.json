@@ -53,7 +53,7 @@
     "hurryCostModifier": 25, 
     "uniques": [
                 "Provides [1] [Slaves]", 
-                "Only available <in cities without [Listening Post]>", 
+                "Only available <in cities without a [Listening Post]>", 
                 "Destroyed when the city is captured", 
                 "Can only be built [in annexed cities]", 
                 "Remove extra unhappiness from annexed cities", 
