@@ -15,7 +15,7 @@
                 "Consumes [2] [Weapons]",
                 "Never appears as a Barbarian unit",
                 "Limited to [8] per Civilization", 
-                "Only available <in cities with a [Armaments production line]>", 
+                "Only available <in cities with a [Armaments Production Line]>", 
                 "[+10]% Strength <vs [Military] units> <in [Foreign Land] tiles>"
                ], 
    "promotions": ["Gas Mask", 
