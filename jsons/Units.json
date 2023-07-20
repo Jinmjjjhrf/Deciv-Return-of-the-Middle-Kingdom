@@ -18,8 +18,8 @@
                 "Only available <in cities with a [Armaments production line]>", 
                 "[+10]% Strength <vs [Military] units> <in [Foreign Land] tiles>"
                ], 
-   "promotions": ["Gas masks", 
-                 "Protector of the people"], 
+   "promotions": ["Gas Mask", 
+                 "Protector of the People"], 
    "attackSound": "shot"
 }, 
 {
